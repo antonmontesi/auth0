@@ -18,7 +18,7 @@
         // Sorry! No Web Storage support..
         }*/
 
-        $.get( "/_layout/tokenhtml", function( data ) {
+        $.get( "https://furlasso2.microsoftcrmportals.com/_layout/tokenhtml", function( data ) {
            /* if (typeof(Storage) !== "undefined") {
                 localStorage.setItem("antiforgery", "data");
             } */
